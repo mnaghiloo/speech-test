@@ -1,0 +1,23 @@
+{
+    "name": "تبدیل گفتار به متن فارسی",
+    "short_name": "Persian STT",
+    "description": "تبدیل گفتار به متن فارسی با پشتیبانی از لهجه‌های مختلف",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#f8f9fa",
+    "theme_color": "#4a6da7",
+    "dir": "rtl",
+    "lang": "fa",
+    "icons": [
+        {
+            "src": "icons/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+} 
